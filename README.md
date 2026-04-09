@@ -23,7 +23,7 @@ A simple console-based **Restaurant Management System** made in C++.
 
 ## Screenshots
 
-Made with ❤️ for learning purpose.<img width="452" height="110" alt="rms3" src="https://github.com/user-attachments/assets/f2188f93-b899-49c3-9180-c5819ed8c915" />
+<img width="452" height="110" alt="rms3" src="https://github.com/user-attachments/assets/f2188f93-b899-49c3-9180-c5819ed8c915" />
 <img width="302" height="118" alt="rms2" src="https://github.com/user-attachments/assets/a7755417-24eb-4937-8d0d-6b531616a60f" />
 <img width="452" height="284" alt="rms" src="https://github.com/user-attachments/assets/b112e839-3dd2-4223-bf62-e0f85cf2d440" />
 
