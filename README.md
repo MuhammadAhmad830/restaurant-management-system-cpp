@@ -1,4 +1,4 @@
-# 🍔 Restaurant Management System in C++
+ Restaurant Management System in C++
 
 A simple console-based **Restaurant Management System** made in C++.
 
